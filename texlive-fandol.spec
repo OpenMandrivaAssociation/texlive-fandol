@@ -6,7 +6,7 @@
 # catalog-version 0.2
 Name:		texlive-fandol
 Version:	0.2
-Release:	4
+Release:	5
 Summary:	Four basic fonts for Chinese typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/fandol
