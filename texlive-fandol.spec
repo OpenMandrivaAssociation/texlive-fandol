@@ -1,12 +1,6 @@
-# revision 31345
-# category Package
-# catalog-ctan /fonts/fandol
-# catalog-date 2013-08-04 11:01:13 +0200
-# catalog-license gpl
-# catalog-version 0.2
 Name:		texlive-fandol
-Version:	0.2
-Release:	9
+Version:	0.3
+Release:	1
 Summary:	Four basic fonts for Chinese typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/fandol
@@ -33,14 +27,8 @@ are in OpenType format.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolFang-Regular.otf
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolHei-Bold.otf
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolHei-Regular.otf
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolKai-Regular.otf
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolSong-Bold.otf
-%{_texmfdistdir}/fonts/opentype/public/fandol/FandolSong-Regular.otf
-%doc %{_texmfdistdir}/doc/fonts/fandol/COPYING
-%doc %{_texmfdistdir}/doc/fonts/fandol/README
+%{_texmfdistdir}/fonts/opentype/public/fandol
+%doc %{_texmfdistdir}/doc/fonts/fandol
 
 #-----------------------------------------------------------------------
 %prep
