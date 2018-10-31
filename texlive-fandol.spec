@@ -1,6 +1,6 @@
 Name:		texlive-fandol
 Version:	0.3
-Release:	1
+Release:	2
 Summary:	Four basic fonts for Chinese typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/fandol
