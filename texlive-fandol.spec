@@ -3,7 +3,7 @@ Version:	37889
 Release:	2
 Summary:	Four basic fonts for Chinese typesetting
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/fandol
+URL:		https://www.ctan.org/tex-archive/fonts/fandol
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fandol.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fandol.doc.r%{version}.tar.xz
